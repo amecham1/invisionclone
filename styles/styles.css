@@ -116,5 +116,55 @@
 .content-section{
   width: 100%;
   background-color: black;
+  padding-top: 150px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 
+}
+
+.content-title{
+  color: white;
+  text-align: center;
+  padding-bottom: 75px;
+}
+.content-icon {
+  width: 100%;
+  text-align: center;
+  margin:0 auto 0 auto;
+}
+.content-icon img{
+padding-bottom: 50px;
+}
+#content-header{
+  border: none;
+}
+#content-footer{
+  padding-bottom: 50px;
+}
+.content-list{
+  width: 100%;
+  color: white;
+  padding-bottom: 30px;
+
+}
+.content-list li {
+  padding-bottom: 17px;
+}
+.content-social{
+  width: 100%;
+  padding-bottom: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+.social{
+  width: 11vw;
+  height: 10vh;
+  background-color: white;
+  border-radius: 100%;
+  border: 3px solid black;
 }
