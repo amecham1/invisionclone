@@ -1,0 +1,16 @@
+@import 'https://fonts.googleapis.com/css?family=Didact+Gothic';
+
+body{
+  font-family: "Helvetica Neue", "Helvetica";
+}
+
+h1,h2,h3,h4,h5,h6 ,{
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+    margin: 0 0 .75em;
+    text-transform: uppercase;
+}
+p{
+  margin: 0 0 .75em;
+}

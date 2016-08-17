@@ -1,0 +1,120 @@
+.top-section{
+  height: 100vh;
+  width: 100%;
+  background-image: url("https://s3.amazonaws.com/www-assets.invisionapp.com/marketplace/assets/mp-hero-02.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left -450px top 0;
+  padding-top: calc(47vh - 30px);
+
+}
+
+.branding-box{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border: 3px solid #FDFCFD;
+  color: #FDFCFD;
+  text-align: center;
+  text-transform: uppercase;
+  width: 85%;
+  margin: auto;
+  font-size: 30px;
+
+}
+.title-box{
+  width: 80%;
+  color: #FDFCFD;
+  margin: auto;
+  text-align: center;
+  padding-top: 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+.icon-box{
+  width: 73px;
+  margin: auto;
+  margin-top: 120px;
+
+
+}
+.icon-box img{
+  width: 100%;
+}
+
+.created-box{
+  text-align: center;
+  color: white;
+  font-size: .625em;
+  letter-spacing: .25em;
+  font-weight:  100;;
+  padding-top: 15px;
+  text-transform: uppercase;
+}
+.undervision{
+  text-decoration: none;
+  color: white;
+  border-bottom: 1px solid white;
+  padding-bottom: 2px;
+  /*line-height: 2;*/
+}
+.undervision:hover {
+    transition: all ease .35s;
+    color: #f36;
+    box-shadow: 0 1px 0 0 #f36;
+    border-bottom: 1px solid #f36;
+  }
+
+.product-container{
+  /*height: 45vh;*/
+  width: 100%;
+  margin: 0 auto 5px;
+  background-color: #ccc;
+}
+
+.product-container img{
+  width: 100%;
+}
+
+.newsletter-section{
+  width: 100%;
+  /*height: 20vh;*/
+  margin: 0 auto 5px;
+}
+.newsletter-section h3{
+  padding-top: 30px;
+  letter-spacing: .1em;
+  text-align: center;
+  font-size: 1.125em;
+  margin-bottom: .63889em;
+}
+.newsletter-section p {
+  color: #7e8890;
+  font-size: .85em;
+  margin-bottom: 2.08333em;
+  text-align: center;
+  text-transform: uppercase;
+}
+.newsletter-section input{
+  width: 90%;
+  height: 7vh;
+  border: solid 1px #90969f;
+  margin:0 auto 20px auto;
+  display: block;
+  /*font-size: .3em;*/
+}
+.newsletter-section button{
+  width: 91%;
+  height: 8vh;
+  border: solid 1px black;
+  margin:0 auto 40px auto;
+  display: block;
+  background-color: black;
+  color: white;
+  font-size: 1em;
+}
+
+.content-section{
+  width: 100%;
+  background-color: black;
+
+}
